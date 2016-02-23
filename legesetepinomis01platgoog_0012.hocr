@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./legesetepinomis01platgoog_0012.png"; bbox 0 0 2670 4778; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 306 1422 995 1501">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 306 1422 995 1501">
+     <span class='ocr_line' id='line_1_1' title="bbox 306 1422 995 1501; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 306 1422 995 1501; x_wconf 85' lang='lat' dir='ltr'><strong>ANIMADVERSIONES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 21 1754 1198 2020">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 21 1752 1198 2020">
+     <span class='ocr_line' id='line_1_2' title="bbox 21 1754 1198 2020; baseline 0.002 -59"><span class='ocrx_word' id='word_1_2' title='bbox 21 1754 1198 2020; x_wconf 56' lang='grc' dir='ltr'><strong>ΙΡιΑΤοΝΙειΕθΕε</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 437 2289 867 2380">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 437 2289 867 2380">
+     <span class='ocr_line' id='line_1_3' title="bbox 437 2289 867 2380; baseline 0.009 -4"><span class='ocrx_word' id='word_1_3' title='bbox 437 2289 867 2380; x_wconf 87' lang='lat' dir='ltr'><strong>EPINOMIDA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 45 3922 1000 4185">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 45 3922 1000 4185">
+     <span class='ocr_line' id='line_1_4' title="bbox 45 3922 50 3985; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 45 3922 50 3985; x_wconf 85' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 47 4078 1000 4185; baseline 0.003 -50.997"><span class='ocrx_word' id='word_1_5' title='bbox 47 4098 59 4185; x_wconf 66' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 149 4080 300 4135; x_wconf 78' lang='lat' dir='ltr'><em>Animadv.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 320 4083 352 4134; x_wconf 77' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 371 4078 481 4175; x_wconf 58' lang='lat' dir='ltr'><strong><em>Platqn.</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 499 4080 592 4153; x_wconf 78' lang='lat' dir='ltr'><strong><em>Legg.</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 973 4088 1000 4143; x_wconf 70' lang='lat' dir='ltr'>A</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1340 4778">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1340 4778">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1340 4778; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1340 4778; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
